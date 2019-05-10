@@ -1,7 +1,7 @@
 # Projektit
 
 
-Coelias.com (2018->)
+<h3>Coelias.com (2018->)</h3>
 
 Toinen projektini oli nettikauppa valmiiden pohjien päälle rakennettuna. Projektin tarkoituksena oli testailla "Dropshipping" -nettikaupan ylläpitoa ja tutustua syvemmin Wordpressin ja sen tarjoamien plugineitten käyttöön.
 
@@ -10,7 +10,8 @@ Nettikaupan ideaksi valikoitui naisten vaatekauppa, koska naiset kuluttavat neti
 Tekniikoina käytin Wordpress + pluginit/Alidropship nettikauppapohjaa/Alipluginia/Paypalin ja Stripen -maksunvälityspalveluita.
 
 Nettikauppa on edelleen hengissä vaikkakin kyseiseen projektiin ei tule tällä hetkellä panostettua paljoakaan. Nettikaupan ylläpito menee koulun ohessa.
-Hiusaika.fi (2017-2019)
+
+<h3>Hiusaika.fi (2017-2019)</h3>
 
 Ensimmäinen isompi projektini mikä toteutettiin yhteistyössä erään Mikkeliläisen pienyrittäjän kanssa. Löydät täältä Hiusaika.fi alustavan ulkoasun koodit ja graafisen suunnitelmani. Projekti toteutettiin HTML/CSS/JavaScript/PHP/MySQL -ohjelmointikielillä. Logojen ja taustan suunnittelussa käytin Photoshop- ja Illustrator-ohjelmia.
 
