@@ -13,8 +13,8 @@ Nettikauppa on edelleen hengissä vaikkakin kyseiseen projektiin ei tule tällä
 
 <h3>Hiusaika.fi (2017-2019)</h3>
 
-Ensimmäinen isompi projektini mikä toteutettiin yhteistyössä erään Mikkeliläisen pienyrittäjän kanssa. Löydät täältä Hiusaika.fi alustavan ulkoasun koodit ja graafisen suunnitelmani. Projekti toteutettiin HTML/CSS/JavaScript/PHP/MySQL -ohjelmointikielillä. Logojen ja taustan suunnittelussa käytin Photoshop- ja Illustrator-ohjelmia.
+Ensimmäinen isompi projektini mikä toteutettiin yhteistyössä erään Mikkeliläisen pienyrittäjän kanssa. Löydät täältä Hiusaika.fi sivuston koko koodin, kuvia nettisivusta matkan varrelta ja graafisen suunnitelmani. Projekti toteutettiin HTML/CSS/JavaScript/PHP/MySQL -ohjelmointikielillä. Logojen ja taustan suunnittelussa käytin Photoshop- ja Illustrator-ohjelmia.
 
-Varsinaisen toiminnallisuudet jätin tarkoituksella pois, koska toiminnallisuuden tekemisestä ylivoimaisesti suurimman osan teki toisen yrityksen koodari.
+Oma panostukseni sivuston tekemisessä oli idea, suunnittelu, graafiset elementit, sivun ulkoasu, markkinointi ja yhteistyö yrityksen (Smokevision) kanssa toimiminen.
 
 Nettisivu oli toiminnassa noin 8kk minkä aikana saimme yli 30 parturikampaamoyritystä sivuillemme. Kovan kilpailun ja resurssien puutteen takia sivuston kehittäminen lopetettiin 01.02.2019.
