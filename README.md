@@ -18,3 +18,7 @@ Ensimmäinen isompi projektini mikä toteutettiin yhteistyössä erään Mikkeli
 Oma panostukseni sivuston tekemisessä oli ideointi, suunnittelu, graafiset elementit, sivun ulkoasu, markkinointi ja yhteistyö toisen yrityksen kanssa.
 
 Nettisivu oli toiminnassa noin 8kk minkä aikana saimme yli 30 parturikampaamoyritystä sivuillemme. Kovan kilpailun ja resurssien puutteen takia sivuston kehittäminen lopetettiin 01.02.2019.
+
+<h3>Muita projekteja</h3>
+
+Teen silloin tällöin vapaa-ajallani erinäköisiä projekteja joiden tarkoitus on kehittää taitojani eri ohjelmointikielissä. Näitä muita projekteja löytyy projekti -nimisistä kansioista mitä lisäilen tänne Githubiin sitä mukaan kun saan niitä edes osittain valmiiksi
