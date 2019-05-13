@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<head>
+<meta charset="UTF-8">
+<title>Responsiivinen nettisivu</title>
+
+<!---Linkitetään tyylit, iconit ja javascript-->
+<link rel="stylesheet" type="text/css" href="tyylit/tyylit2.css" title="Default Styles" media="screen">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="js/main.js"></script> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<!--Luodaan navigointipalkki-->
+<div class="topnav" id="myTopnav">
+    <a href="main.html">Etusivu</a>
+    <a href="toinen.html" class="active">Parallax</a>
+    <a href="kolmas.html">Tulossa</a>
+    <a href="#neljas">Tulossa</a>
+    <!--Painike aukaisee navbarin pienillä näytöillä-->
+    <a href="javascript:void(0);" class="icon" onclick="functio()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+
+<!--Sisältöä sivuille-->
+
+<div class="parallax"></div>
+
+<div class="caption">
+    <span class="border">RULLAA ALAS</span>
+</div>
+<div class="teksti">
+        <h2>Tässä harjoittelen parallax rollia</h2>
+        <p>Tässä näet kuinka parallaxi toimii. Sivua alaspäin rullaamalla kuvat liukuvat taustalla.
+        Kuvien päälle voi tehdä elementtejä mitkä liukuvat kuvan päällä rullatessa. 
+        Sivu on täysin responsiivinen ja toimii eri kokoisilla näytöillä.
+        </p>
+        </div>
+<div class="parallax2"><span class="border2">Tekstiä</span></div>
+<div class="teksti">
+        <h2>Hyvin näyttää toimivan!</h2>
+        <p>
+        </p>
+        </div>
+        <div class="parallax"></div>
+<div class="footer">
+
+    <p> 	Copyright &copy;  <a href="https://jounikononen.fi/">Jouni Kononen</a> </p>
+
+</div>
+  
+</body>
+
+</html> 
