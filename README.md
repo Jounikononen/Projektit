@@ -6,7 +6,7 @@ Ensimmäinen isompi projektini mikä toteutettiin yhteistyössä erään Mikkeli
 
 Oma panostukseni sivuston tekemisessä oli ideointi, suunnittelu, graafiset elementit, sivun ulkoasu, markkinointi ja yhteistyö toisen yrityksen kanssa.
 
-Nettisivu oli toiminnassa noin 8kk minkä aikana saimme yli 30 parturikampaamoyritystä sivuillemme. Kovan kilpailun ja resurssien puutteen takia sivuston kehittäminen lopetettiin 01.02.2019.
+Nettisivu oli toiminnassa muutamia kuukausia minkä aikana saimme yli 30 parturikampaamoyritystä sivuillemme. Kovan kilpailun ja resurssien puutteen takia sivuston kehittäminen lopetettiin 01.02.2019.
 
 
 <h3>Coelias.com (2018->)</h3>
