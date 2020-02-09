@@ -5,11 +5,6 @@
 
 Toinen projektini oli nettikauppa valmiiden pohjien päälle rakennettuna. Projektin tarkoituksena oli testailla "Dropshipping" -nettikaupan ylläpitoa ja tutustua syvemmin Wordpressin ja sen tarjoamien plugineitten käyttöön.
 
-Nettikaupan ideaksi valikoitui naisten vaatekauppa, koska naiset kuluttavat netissä eniten rahaa ja tarjolla oli myös lähes rajaton määrä eri vaatekauppoja joiden tuotteita pystyin alkaa myymään kaupassani.
-
-Tekniikoina käytin Wordpress + pluginit/Alidropship nettikauppapohjaa/Alipluginia/Paypalin ja Stripen -maksunvälityspalveluita.
-
-Nettikauppa on edelleen hengissä vaikkakin kyseiseen projektiin ei tule tällä hetkellä panostettua paljoakaan. Nettikaupan ylläpito menee koulun ohessa.
 
 <h3>Hiusaika.fi (2017-2019)</h3>
 
