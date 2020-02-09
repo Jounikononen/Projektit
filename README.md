@@ -9,6 +9,6 @@ Oma panostukseni sivuston tekemisessä oli ideointi, suunnittelu, graafiset elem
 Nettisivu oli toiminnassa muutamia kuukausia minkä aikana saimme yli 30 parturikampaamoyritystä sivuillemme. Kovan kilpailun ja resurssien puutteen takia sivuston kehittäminen lopetettiin 01.02.2019.
 
 
-<h3>Coelias.com (2018->)</h3>
+<h3>Coelias.com (2018-2019)</h3>
 
 Toinen projektini oli nettikauppa valmiiden pohjien päälle rakennettuna. Projektin tarkoituksena oli testailla "Dropshipping" -nettikaupan ylläpitoa ja tutustua syvemmin Wordpressin ja sen tarjoamien plugineitten käyttöön.
