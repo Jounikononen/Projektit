@@ -2,7 +2,7 @@
 
 <h3>Opinnäytetyö</h3>
 
-Opinnäytetyön tekeminen aloitettu vuoden 2020 kesäkuussa. Opinnäytetyössä teen bottia, joka käy itsenäisesti kauppaa eri valuutoilla tekniseen analyysiin perustuen (Treidausbotti). Projekti valmistuu syksyksi.
+Opinnäytetyön tekeminen aloitettu vuoden 2020 kesäkuussa. Opinnäytetyössä teen bottia, joka käy itsenäisesti kauppaa eri valuutoilla tekniseen analyysiin perustuen (Treidausbotti). Projekti valmistuu syksyksi. Tekniikoina Python3, API ja valtava määrä dataa.
 
 <h3>Hiusaika.fi (2017-2019)</h3>
 
