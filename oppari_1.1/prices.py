@@ -13,7 +13,7 @@ def valuutan_tiedot():
         check = len(valuutta)
         if check == 200:
 
-            #Valuutan "closin prices" viimeisimmältä 15 minuutilta
+            #Valuutan tiedot luettavampaan ja laskettavampaan muotoon
             i = -1
             lista = []
             for x in valuutta:
