@@ -1,5 +1,4 @@
 '''
-Buutti Oy / Matilda Mustakallio
 Maze -task
 Jouni Kononen
 '''
